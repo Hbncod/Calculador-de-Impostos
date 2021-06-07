@@ -1,0 +1,16 @@
+C:\Users\hbnco\Desktop\CalcularImposto\bin\Debug\net5.0\CalcularImposto.exe
+C:\Users\hbnco\Desktop\CalcularImposto\bin\Debug\net5.0\CalcularImposto.deps.json
+C:\Users\hbnco\Desktop\CalcularImposto\bin\Debug\net5.0\CalcularImposto.runtimeconfig.json
+C:\Users\hbnco\Desktop\CalcularImposto\bin\Debug\net5.0\CalcularImposto.runtimeconfig.dev.json
+C:\Users\hbnco\Desktop\CalcularImposto\bin\Debug\net5.0\CalcularImposto.dll
+C:\Users\hbnco\Desktop\CalcularImposto\bin\Debug\net5.0\ref\CalcularImposto.dll
+C:\Users\hbnco\Desktop\CalcularImposto\bin\Debug\net5.0\CalcularImposto.pdb
+C:\Users\hbnco\Desktop\CalcularImposto\obj\Debug\net5.0\CalcularImposto.csprojAssemblyReference.cache
+C:\Users\hbnco\Desktop\CalcularImposto\obj\Debug\net5.0\CalcularImposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbnco\Desktop\CalcularImposto\obj\Debug\net5.0\CalcularImposto.AssemblyInfoInputs.cache
+C:\Users\hbnco\Desktop\CalcularImposto\obj\Debug\net5.0\CalcularImposto.AssemblyInfo.cs
+C:\Users\hbnco\Desktop\CalcularImposto\obj\Debug\net5.0\CalcularImposto.csproj.CoreCompileInputs.cache
+C:\Users\hbnco\Desktop\CalcularImposto\obj\Debug\net5.0\CalcularImposto.dll
+C:\Users\hbnco\Desktop\CalcularImposto\obj\Debug\net5.0\ref\CalcularImposto.dll
+C:\Users\hbnco\Desktop\CalcularImposto\obj\Debug\net5.0\CalcularImposto.pdb
+C:\Users\hbnco\Desktop\CalcularImposto\obj\Debug\net5.0\CalcularImposto.genruntimeconfig.cache
